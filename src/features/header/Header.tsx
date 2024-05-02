@@ -7,8 +7,8 @@ export const Header: React.FC = () => {
       <Link to={AppRoutes.HOME}>
         <img
           className={styles.logo}
-          src="/src/assets/car-logo.svg"
-          alt="logo"
+          src="/test-cars/src/assets/car-logo.svg"
+          alt="car-logo"
         />
       </Link>
     </header>
