@@ -1,0 +1,12 @@
+.header {
+  background-color: var(--primary-color);
+  color: var(--white-color);
+  padding: 10px 20px;
+  width: 100%;
+  font-size: 24px;
+  text-align: center;
+}
+.logo{
+  width: 100px;
+  aspect-ratio: 1/0.6;
+}
